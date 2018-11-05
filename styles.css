@@ -1,0 +1,30 @@
+Img{ 
+    height:300px; 
+    Border:1px solid blue;
+} 
+Body{ 
+    color:white;
+    background-color:blue; 
+      } 
+ul{
+    font-family:'Lobster', cursive;  
+      }
+ul{
+    font-family:'Srisakdi', cursive; 
+      } 
+p{ 
+     text-decoration:underline;
+     Font-family:'Lobster', cursive; 
+     color:yellow;
+     }
+img{ 
+     display:block;
+      margin-left:auto;
+      margin-right: auto;
+     }
+h1{
+    display:block;
+     margin-left:auto;
+      margin-right:auto; 
+      width:30%;
+      }  
